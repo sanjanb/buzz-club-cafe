@@ -28,7 +28,18 @@ The Buzz Club is a modern café website that allows customers to view the menu, 
 ```bash
 git clone https://github.com/yourusername/buzz-club.git
 cd buzz-club
-
+```
+### Install the packages
+```bash
 npm install
-
+```
+### start your page
+```bash
 npm start
+```
+
+You can copy and save this content into your `README.md` file. Let me know if you need any changes or additional details! 😊
+
+
+
+
